@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<web-app>
+    <servlet>
+        <name>
+            test
+        </name>
+        <class>
+            io.github.wssgyyg.test.class
+        </class>
+    </servlet>
+    <servlet
+</web-app>
